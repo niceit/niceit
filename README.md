@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=FullStack Senior Developer..&hearts;++;Backend Development, RestFul API!;ReactJS, VueJS, AngularJS...;Flutter, ReactNative, Java, Swift...;Web Stack Development..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=FullStack+Senior+Developer..%E2%99%A5++;Backend+Development,+RestFul+API!;ReactJS,+VueJS,+AngularJS...;Flutter,+ReactNative,+Java,+Swift...;Web+Stack+Development..%3C3"></a>
 </p>
 
 ---
