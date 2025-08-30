@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![My Personal Website](https://custom-icon-badges.demolab.com/badge/www.tranit.co-gold?style=for-the-badge&logo=globe&logoColor=black)](https://www.tranit.co.co) 
+[![My Personal Website](https://custom-icon-badges.demolab.com/badge/www.tranit.co-gold?style=for-the-badge&logo=globe&logoColor=black)](https://www.tranit.co) 
 [![My Email](https://custom-icon-badges.demolab.com/badge/-tran.tuan@tranit.co-red?style=for-the-badge&logo=mail&logoColor=white)](mailto:tran.tuan@tranit.co)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=niceit&color=green&style=for-the-badge) [![Total Stars on Github](https://custom-icon-badges.demolab.com/github/stars/niceit?color=55960c&style=for-the-badge&labelColor=488207&logo=star)](https://github.com/niceit?tab=repositories&sort=stargazers)
